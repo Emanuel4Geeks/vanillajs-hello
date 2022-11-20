@@ -1,4 +1,7 @@
 {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "yaml.schemas": {
+        "https://gitpod.io/schemas/gitpod-schema.json": "file:///workspaces/vanillajs-hello/.gitpod.yml"
+    }
 }
